@@ -1,0 +1,6 @@
+pane	0	0	:salt	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	ssh	:ssh salt
+pane	0	0	:salt	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	zsh	:
+pane	0	0	:salt	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	irssi	:irssi
+pane	0	0	:salt	1	:*	3	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	ssh	:ssh salt
+window	0	0	1	:*	ba0e,190x46,0,0[190x28,0,0,4,190x6,0,29,3,190x10,0,36{95x10,0,36,1,94x10,96,36,2}]
+state	0	

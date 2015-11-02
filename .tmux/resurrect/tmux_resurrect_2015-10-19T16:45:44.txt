@@ -1,0 +1,10 @@
+pane	0	0	:exit	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	0	ssh	:ssh salt
+pane	0	0	:exit	1	:*	1	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	vim	:vim -p dev-nginx-boost.sls dev-nginx-cerebros.sls dev-nginx-fastr.sls dev-nginx-profiler.sls dev-nginx.sls
+pane	1	0	:..er/srv/pillar	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	zsh	:
+pane	2	0	:..er/srv/pillar	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	zsh	:
+pane	3	0	:..er/srv/pillar	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	zsh	:
+window	0	0	1	:*	ee53,211x59,0,0[211x14,0,0,7,211x44,0,15,10]
+window	1	0	1	:*	b263,80x24,0,0,6
+window	2	0	1	:*	d165,211x59,0,0,8
+window	3	0	1	:*	ae66,80x23,0,0,9
+state	2	

@@ -1,0 +1,7 @@
+pane	0	0	:exit	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/docker/bffedora	1	ssh	:ssh salt
+pane	2	0	:..cker/bffedora	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/docker/bffedora	1	zsh	:
+pane	3	0	:..cker/bffedora	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/docker/bffedora	1	zsh	:
+window	0	0	1	:*	b361,211x61,0,0,4
+window	2	0	1	:*	b362,211x61,0,0,5
+window	3	0	1	:*	b363,211x61,0,0,6
+state	0	0

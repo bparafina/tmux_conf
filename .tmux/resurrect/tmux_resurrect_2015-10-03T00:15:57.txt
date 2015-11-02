@@ -1,0 +1,5 @@
+pane	0	0	:zsh	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b4/SteamLibrary	1	zsh	:
+pane	0	0	:zsh	1	:*	1	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b4	0	zsh	:
+pane	0	0	:zsh	1	:*	2	:/home/benp/Downloads	0	zsh	:
+window	0	0	1	:*	dfff,213x61,0,0[213x46,0,0{106x46,0,0,0,106x46,107,0,3},213x14,0,47,2]
+state	0	

@@ -1,0 +1,5 @@
+pane	0	0	:..40b4/Projects	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects	1	ssh	:ssh salt
+pane	0	0	:..40b4/Projects	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects	0	zsh	:
+pane	0	0	:..40b4/Projects	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	irssi	:irssi
+window	0	0	1	:*	c49c,150x45,0,0[150x27,0,0,10,150x7,0,28,11,150x9,0,36,7]
+state	0	

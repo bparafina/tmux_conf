@@ -1,0 +1,4 @@
+pane	0	0	:salt	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/docker-gc	1	ssh	:ssh salt
+pane	0	0	:salt	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/docker-gc	0	ssh	:ssh salt
+window	0	0	1	:*	a026,190x46,0,0[190x23,0,0,2,190x22,0,24,3]
+state	0	

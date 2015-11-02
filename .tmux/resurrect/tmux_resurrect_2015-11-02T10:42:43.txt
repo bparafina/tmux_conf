@@ -1,0 +1,5 @@
+pane	0	0	:/	1	:*	0	:/	1	zsh	:
+pane	1	0	:~/.ssh	1	:*	0	:/home/ben/.ssh	1	zsh	:
+window	0	0	1	:*	ae5d,80x23,0,0,0
+window	1	0	1	:*	c4be,190x46,0,0,1
+state	1	

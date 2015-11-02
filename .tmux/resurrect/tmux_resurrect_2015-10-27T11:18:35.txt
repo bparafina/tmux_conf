@@ -1,0 +1,5 @@
+pane	0	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem	1	:*	0	:/home/ben	0	irssi	:irssi
+pane	0	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	zsh	:
+pane	0	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+window	0	0	1	:*	d2fa,190x46,0,0[190x20,0,0{95x20,0,0,0,94x20,96,0,5},190x25,0,21,3]
+state	0	

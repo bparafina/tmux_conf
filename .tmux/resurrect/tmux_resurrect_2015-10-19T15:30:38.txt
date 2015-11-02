@@ -1,0 +1,8 @@
+pane	0	0	:salt	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/winetricks	1	ssh	:ssh salt
+pane	0	0	:salt	1	:*	1	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	0	ssh	:ssh salt
+pane	1	0	:..er/srv/pillar	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	zsh	:
+pane	2	0	:salt	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	ssh	:ssh salt
+window	0	0	1	:*	6b2b,211x59,0,0{132x59,0,0,2,78x59,133,0,7}
+window	1	0	1	:*	b263,80x24,0,0,6
+window	2	0	1	:*	d165,211x59,0,0,8
+state	0	0

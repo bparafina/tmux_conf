@@ -1,0 +1,4 @@
+pane	1	0	:salt	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	ssh	:ssh optimus
+pane	1	0	:salt	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/srv/pillar	0	ssh	:ssh salt
+window	1	0	1	:*	59a1,190x45,0,0[190x14,0,0,9,190x30,0,15,13]
+state	1	

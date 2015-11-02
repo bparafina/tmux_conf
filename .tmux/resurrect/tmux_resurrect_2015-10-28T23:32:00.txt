@@ -1,0 +1,21 @@
+pane	0	0	:logout	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/benp_backup/benp/.theca	1	irssi	:irssi
+pane	0	0	:logout	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/benp_backup/benp/.theca	1	irssi	:irssi
+pane	0	0	:logout	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/benp_backup/benp/.theca	1	irssi	:irssi
+pane	1	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+pane	1	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+pane	1	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+pane	2	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+window	0	0	1	:*	c4bf,190x46,0,0,2
+window	1	0	1	:*	c0c0,190x45,0,0,3
+window	2	0	1	:*	b261,80x24,0,0,4
+pane	2	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+pane	2	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+state	1	
+window	0	0	1	:*	c4bf,190x46,0,0,2
+window	1	0	1	:*	c0c0,190x45,0,0,3
+window	2	0	1	:*	b261,80x24,0,0,4
+window	0	0	1	:*	c4bf,190x46,0,0,2
+window	1	0	1	:*	c0c0,190x45,0,0,3
+window	2	0	1	:*	b261,80x24,0,0,4
+state	1	
+state	1	

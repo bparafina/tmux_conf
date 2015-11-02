@@ -1,0 +1,6 @@
+pane	0	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	0	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+pane	0	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	1	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+pane	0	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	0	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+pane	0	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem	1	:*	3	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	0	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+window	0	0	1	:*	b05a,190x46,0,0[190x25,0,0{95x25,0,0,0,94x25,96,0,5},190x17,0,26,4,190x2,0,44,2]
+state	0	

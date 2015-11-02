@@ -1,0 +1,5 @@
+pane	0	0	:salt	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	ssh	:ssh salt
+pane	0	0	:salt	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	ssh	:ssh salt
+pane	0	0	:salt	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	ssh	:ssh salt
+window	0	0	1	:*	2e01,94x45,0,0[94x25,0,0,4,94x9,0,26,5,94x9,0,36,2]
+state	0	

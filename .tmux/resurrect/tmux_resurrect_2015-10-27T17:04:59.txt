@@ -1,0 +1,5 @@
+pane	0	0	:salt	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects	1	ssh	:ssh salt
+pane	0	0	:salt	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/srv/salt	0	ssh	:ssh salt
+pane	0	0	:salt	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	irssi	:irssi
+window	0	0	1	:*	ae09,190x46,0,0[190x32,0,0{95x32,0,0,11,94x32,96,0,13},190x13,0,33,7]
+state	0	

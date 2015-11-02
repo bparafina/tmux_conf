@@ -1,0 +1,4 @@
+pane	0	0	:bash	1	:*	0	:/home/ben/.local/share/Steam/ubuntu12_32	0	bash	:
+pane	0	0	:bash	1	:*	1	:/home/ben/.local/share/Steam	1	bash	:bash ./steam.sh
+window	0	0	1	:*	1192,80x23,0,0[80x11,0,0,0,80x11,0,12,2]
+state	0	

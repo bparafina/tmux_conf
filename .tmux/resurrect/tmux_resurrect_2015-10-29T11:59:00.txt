@@ -1,0 +1,5 @@
+pane	0	0	:irssi	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	ssh	:ssh salt
+pane	0	0	:irssi	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	irssi	:irssi
+pane	0	0	:irssi	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	ssh	:ssh salt
+window	0	0	1	:*	e66c,190x46,0,0[190x33,0,0,0,190x12,0,34{95x12,0,34,1,94x12,96,34,2}]
+state	0	

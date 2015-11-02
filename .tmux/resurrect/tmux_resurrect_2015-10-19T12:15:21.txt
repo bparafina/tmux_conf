@@ -1,0 +1,7 @@
+pane	0	0	:exit	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/winetricks	0	ssh	:ssh salt
+pane	0	0	:exit	1	:*	1	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv	0	ssh	:ssh salt
+pane	0	0	:exit	1	:*	2	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	ssh	:ssh -i /home/benp/.ssh/benchmarkingb.pem ubuntu@52.88.118.26
+pane	1	0	:..er/srv/pillar	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	zsh	:
+window	0	0	1	:*	26b5,211x61,0,0{105x61,0,0,2,105x61,106,0[105x13,106,0,3,105x47,106,14,5]}
+window	1	0	1	:*	b263,80x24,0,0,6
+state	0	0

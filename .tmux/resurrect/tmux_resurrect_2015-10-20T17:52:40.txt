@@ -1,0 +1,8 @@
+pane	0	0	:~/.ssh/benchmarkingb.pem	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/salt	1	ssh	:ssh -i /home/benp/.ssh/benchmarkingb.pem ubuntu@54.68.117.52
+pane	0	0	:~/.ssh/benchmarkingb.pem	1	:*	1	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/salt	0	ssh	:ssh salt-west
+pane	0	0	:~/.ssh/benchmarkingb.pem	1	:*	2	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/media	0	irssi	:irssi
+pane	0	0	:~/.ssh/benchmarkingb.pem	1	:*	3	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/salt	0	vim	:vim bf_docker.sls
+pane	1	0	:..ster/srv/salt	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/salt	1	zsh	:
+window	0	0	1	:*	7e27,211x59,0,0[211x47,0,0{140x47,0,0[140x22,0,0,5,140x24,0,23,8],70x47,141,0,2},211x11,0,48,4]
+window	1	0	1	:*	d163,211x59,0,0,6
+state	0	

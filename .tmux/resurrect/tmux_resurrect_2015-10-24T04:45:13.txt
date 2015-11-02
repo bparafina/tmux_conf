@@ -1,0 +1,3 @@
+pane	0	0	:~	1	:*	0	:/home/ben	1	zsh	:
+window	0	0	1	:*	c6fe,185x46,0,0,1
+state	0	

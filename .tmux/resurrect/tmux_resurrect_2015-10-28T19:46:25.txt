@@ -1,0 +1,4 @@
+pane	0	0	:..p/benp/.theca	1	:*	0	:/home/ben	1	ssh	:ssh salt
+pane	0	0	:..p/benp/.theca	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/benp_backup/benp/.theca	0	zsh	:
+window	0	0	1	:*	a021,190x46,0,0[190x23,0,0,0,190x22,0,24,1]
+state	0	

@@ -1,0 +1,19 @@
+pane	0	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	zsh	:
+pane	0	0	:..ojects/devops	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	zsh	:
+pane	0	0	:..ojects/devops	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+pane	1	0	:..ster/etc/salt	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	ssh	:ssh salt
+pane	1	0	:..ster/etc/salt	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt	1	zsh	:
+pane	1	0	:..ster/etc/salt	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	irssi	:irssi
+pane	2	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+pane	2	0	:..ojects/devops	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	zsh	:
+pane	3	0	:..ojects/devops	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	zsh	:
+pane	4	0	:..ud.profiles.d	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/cloud.profiles.d	1	zsh	:
+pane	5	0	:..ster/srv/salt	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/srv/salt	0	zsh	:
+pane	5	0	:..ster/srv/salt	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/srv/salt	1	zsh	:
+window	0	0	1	:*	850f,190x46,0,0[190x12,0,0,4,190x13,0,13,5,190x19,0,27,2]
+window	1	0	1	:*	ca36,190x45,0,0[190x19,0,0,19,190x10,0,20,13,190x14,0,31,15]
+window	2	0	1	:*	7760,190x46,0,0[190x25,0,0,9,190x20,0,26,10]
+window	3	0	1	:*	6295,190x46,0,0,16
+window	4	0	1	:*	e291,190x46,0,0,22
+window	5	0	1	:*	19da,190x45,0,0[190x22,0,0,23,190x22,0,23,24]
+state	1	2

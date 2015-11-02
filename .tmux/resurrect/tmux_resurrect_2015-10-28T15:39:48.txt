@@ -1,0 +1,7 @@
+pane	0	0	:optimus	1	:*Z	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	ssh	:ssh salt
+pane	0	0	:optimus	1	:*Z	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	irssi	:irssi
+pane	1	0	:..er/srv/pillar	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	ssh	:ssh optimus
+pane	1	0	:..er/srv/pillar	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/srv/pillar	1	zsh	:
+window	0	0	1	:*Z	64af,190x45,0,0[190x31,0,0,6,190x13,0,32,7]
+window	1	0	1	:*	9344,190x45,0,0[190x2,0,0,9,190x42,0,3,13]
+state	0	

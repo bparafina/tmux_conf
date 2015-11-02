@@ -1,0 +1,9 @@
+pane	0	0	:zsh	1	:*	0	:/home/benp	1	zsh	:
+pane	1	0	:zsh	1	:*	0	:/home/benp	1	zsh	:
+pane	2	0	:zsh	1	:*	0	:/home/benp/.oh-my-zsh/plugins	1	zsh	:
+pane	2	0	:zsh	1	:*	1	:/home/benp	0	zsh	:
+pane	2	0	:zsh	1	:*	2	:/home/benp	0	irssi	:irssi
+window	0	0	1	:*	b45d,213x61,0,0,0
+window	1	0	1	:*	d97e,319x79,0,0,1
+window	2	0	1	:*	179f,213x61,0,0{106x61,0,0[106x30,0,0,2,106x30,0,31,4],106x61,107,0,3}
+state	2	

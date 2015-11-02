@@ -1,0 +1,4 @@
+pane	0	0	:exit	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/salt	0	ssh	:ssh salt
+pane	0	0	:exit	1	:*	1	:/home/benp	1	ssh	:ssh salt
+window	0	0	1	:*	d30b,211x61,0,0[211x36,0,0,3,211x24,0,37,1]
+state	0	

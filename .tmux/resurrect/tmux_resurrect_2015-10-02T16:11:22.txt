@@ -1,0 +1,227 @@
+pane	0	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	0	0	:~	1	:*	1	:/home/benp	0	zsh	:
+pane	1	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	10	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	100	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	101	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	102	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	103	0	:exit	1	:*	0	:/home/benp/Projects/bitstack	1	irssi	:irssi
+pane	104	0	:..mfiles/bundle	1	:*	0	:/home/benp/Projects/vimfiles/bundle	1	zsh	:
+pane	105	0	:export	1	:*	0	:/alpha/Projects/unix-privesc-check	0	sudo	:sudo apt-get installsudo -e /etc/apt/sources.list
+sudo ./upc.sh
+pane	105	0	:export	1	:*	1	:/home/benp/Projects/nomad	1	vim	:vim /home/benp/.tmux.conf
+pane	105	0	:export	1	:*	2	:/home/benp	0	irssi	:irssi
+pane	106	0	:tmux	1	:*	0	:/home/benp/Projects/gitrob	1	tmux	:sudo su postgres
+pane	107	0	:zsh	1	:*	0	:/home/benp	1	zsh	:
+pane	108	0	:zsh	1	:*	0	:/home/benp	1	zsh	:
+pane	109	0	:zsh	1	:*	0	:/home/benp/Projects/robobadger	1	zsh	:
+pane	11	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	12	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	13	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	14	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	15	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	16	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	17	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	18	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	19	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	2	0	:..ects/bitstack	1	:*	0	:/home/benp/Projects/bitstack	1	zsh	:
+pane	20	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	21	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	22	0	:~	1	:*	0	:/home/benp	0	zsh	:
+pane	22	0	:~	1	:*	1	:/home/benp	0	zsh	:
+pane	22	0	:~	1	:*	2	:/home/benp	1	zsh	:
+pane	23	0	:/alpha/Projects	1	:*	0	:/alpha/Projects	1	zsh	:
+pane	24	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	25	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	26	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	27	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	28	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	29	0	: 	1	:*	0	:/home/benp	1	zsh	:
+pane	3	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	30	0	:zsh	1	:*	0	:/home/benp	1	zsh	:
+pane	31	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	32	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	33	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	34	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	35	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	36	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	37	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	38	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	39	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	4	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	40	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	41	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	42	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	43	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	44	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	45	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	46	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	47	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	48	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	49	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	5	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	50	0	:zsh	1	:*	0	:/home/benp	1	zsh	:
+pane	51	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	52	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	53	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	54	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	55	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	56	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	57	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	58	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	59	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	6	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	60	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	61	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	62	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	63	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	64	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	65	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	66	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	67	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	68	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	69	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	7	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	70	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	71	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	72	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	73	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	74	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	75	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	76	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	77	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	78	0	:..ects/bitstack	1	:*	0	:/home/benp/Projects/bitstack	1	zsh	:
+pane	79	0	:..ts/robobadger	1	:*	0	:/home/benp/Projects/robobadger	1	zsh	:
+pane	8	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	80	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	81	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	82	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	83	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	84	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	85	0	:..ts/robobadger	1	:*	0	:/home/benp/Projects/robobadger	1	zsh	:
+pane	86	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	87	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	88	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	89	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	9	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	90	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	91	0	:..ects/bitstack	1	:*	0	:/alpha/Projects/bitstack	1	zsh	:
+pane	92	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	93	0	:..my-zsh/themes	1	:*	0	:/home/benp/.oh-my-zsh/themes	1	zsh	:
+pane	94	0	:..rojects/fonts	1	:*	0	:/alpha/Projects/fonts	1	zsh	:
+pane	95	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	96	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	97	0	:~	1	:*	0	:/home/benp	1	zsh	:
+pane	98	0	:..rojects/fonts	1	:*	0	:/alpha/Projects/fonts	1	zsh	:
+pane	99	0	:~	1	:*	0	:/home/benp	1	zsh	:
+window	0	0	1	:*	9191,80x23,0,0[80x11,0,0,0,80x11,0,12,1]
+window	1	0	1	:*	ae5f,80x23,0,0,2
+window	10	0	1	:*	5760,80x23,0,0,11
+window	100	0	1	:*	abe2,80x23,0,0,103
+window	101	0	1	:*	abe3,80x23,0,0,104
+window	102	0	1	:*	ad94,205x61,0,0,105
+window	103	0	1	:*	b52d,106x59,0,0,106
+window	104	0	1	:*	b52f,106x59,0,0,108
+window	105	0	1	:*	1c4a,213x59,0,0{122x59,0,0[122x31,0,0,113,122x27,0,32,123],90x59,123,0,115}
+window	106	0	1	:*	34e9,213x59,0,0,119
+window	107	0	1	:*	abe0,80x23,0,0,120
+window	108	0	1	:*	abe1,80x23,0,0,121
+window	109	0	1	:*	b3e5,213x58,0,0,125
+window	11	0	1	:*	5761,80x23,0,0,12
+window	12	0	1	:*	5762,80x23,0,0,13
+window	13	0	1	:*	5763,80x23,0,0,14
+window	14	0	1	:*	5764,80x23,0,0,15
+window	15	0	1	:*	5765,80x23,0,0,16
+window	16	0	1	:*	5766,80x23,0,0,17
+window	17	0	1	:*	5767,80x23,0,0,18
+window	18	0	1	:*	5768,80x23,0,0,19
+window	19	0	1	:*	d75f,80x23,0,0,20
+window	2	0	1	:*	ae60,80x23,0,0,3
+window	20	0	1	:*	d760,80x23,0,0,21
+window	21	0	1	:*	d761,80x23,0,0,22
+window	22	0	1	:*	a594,80x23,0,0[80x11,0,0,23,80x5,0,12,24,80x5,0,18,25]
+window	23	0	1	:*	d765,80x23,0,0,26
+window	24	0	1	:*	e9c6,205x59,0,0,27
+window	25	0	1	:*	d767,80x23,0,0,28
+window	26	0	1	:*	d768,80x23,0,0,29
+window	27	0	1	:*	5760,80x23,0,0,30
+window	28	0	1	:*	5761,80x23,0,0,31
+window	29	0	1	:*	5762,80x23,0,0,32
+window	3	0	1	:*	ae61,80x23,0,0,4
+window	30	0	1	:*	5763,80x23,0,0,33
+window	31	0	1	:*	5764,80x23,0,0,34
+window	32	0	1	:*	5765,80x23,0,0,35
+window	33	0	1	:*	5766,80x23,0,0,36
+window	34	0	1	:*	5767,80x23,0,0,37
+window	35	0	1	:*	5768,80x23,0,0,38
+window	36	0	1	:*	5769,80x23,0,0,39
+window	37	0	1	:*	d760,80x23,0,0,40
+window	38	0	1	:*	d761,80x23,0,0,41
+window	39	0	1	:*	d762,80x23,0,0,42
+window	4	0	1	:*	ae62,80x23,0,0,5
+window	40	0	1	:*	d763,80x23,0,0,43
+window	41	0	1	:*	d764,80x23,0,0,44
+window	42	0	1	:*	d765,80x23,0,0,45
+window	43	0	1	:*	d766,80x23,0,0,46
+window	44	0	1	:*	d767,80x23,0,0,47
+window	45	0	1	:*	d768,80x23,0,0,48
+window	46	0	1	:*	d769,80x23,0,0,49
+window	47	0	1	:*	5761,80x23,0,0,50
+window	48	0	1	:*	5762,80x23,0,0,51
+window	49	0	1	:*	5763,80x23,0,0,52
+window	5	0	1	:*	ae63,80x23,0,0,6
+window	50	0	1	:*	5764,80x23,0,0,53
+window	51	0	1	:*	5765,80x23,0,0,54
+window	52	0	1	:*	5766,80x23,0,0,55
+window	53	0	1	:*	5767,80x23,0,0,56
+window	54	0	1	:*	5768,80x23,0,0,57
+window	55	0	1	:*	5769,80x23,0,0,58
+window	56	0	1	:*	576a,80x23,0,0,59
+window	57	0	1	:*	d761,80x23,0,0,60
+window	58	0	1	:*	d762,80x23,0,0,61
+window	59	0	1	:*	d763,80x23,0,0,62
+window	6	0	1	:*	ae64,80x23,0,0,7
+window	60	0	1	:*	d764,80x23,0,0,63
+window	61	0	1	:*	d765,80x23,0,0,64
+window	62	0	1	:*	d766,80x23,0,0,65
+window	63	0	1	:*	d767,80x23,0,0,66
+window	64	0	1	:*	d768,80x23,0,0,67
+window	65	0	1	:*	d769,80x23,0,0,68
+window	66	0	1	:*	d76a,80x23,0,0,69
+window	67	0	1	:*	5762,80x23,0,0,70
+window	68	0	1	:*	5763,80x23,0,0,71
+window	69	0	1	:*	5764,80x23,0,0,72
+window	7	0	1	:*	ae65,80x23,0,0,8
+window	70	0	1	:*	5765,80x23,0,0,73
+window	71	0	1	:*	5766,80x23,0,0,74
+window	72	0	1	:*	5767,80x23,0,0,75
+window	73	0	1	:*	5768,80x23,0,0,76
+window	74	0	1	:*	5769,80x23,0,0,77
+window	75	0	1	:*	576a,80x23,0,0,78
+window	76	0	1	:*	576b,80x23,0,0,79
+window	77	0	1	:*	d762,80x23,0,0,80
+window	78	0	1	:*	d763,80x23,0,0,81
+window	79	0	1	:*	d764,80x23,0,0,82
+window	8	0	1	:*	ae66,80x23,0,0,9
+window	80	0	1	:*	d765,80x23,0,0,83
+window	81	0	1	:*	d766,80x23,0,0,84
+window	82	0	1	:*	d767,80x23,0,0,85
+window	83	0	1	:*	d768,80x23,0,0,86
+window	84	0	1	:*	d769,80x23,0,0,87
+window	85	0	1	:*	d76a,80x23,0,0,88
+window	86	0	1	:*	d76b,80x23,0,0,89
+window	87	0	1	:*	5763,80x23,0,0,90
+window	88	0	1	:*	5764,80x23,0,0,91
+window	89	0	1	:*	5765,80x23,0,0,92
+window	9	0	1	:*	575f,80x23,0,0,10
+window	90	0	1	:*	5766,80x23,0,0,93
+window	91	0	1	:*	5767,80x23,0,0,94
+window	92	0	1	:*	5768,80x23,0,0,95
+window	93	0	1	:*	5769,80x23,0,0,96
+window	94	0	1	:*	576a,80x23,0,0,97
+window	95	0	1	:*	576b,80x23,0,0,98
+window	96	0	1	:*	576c,80x23,0,0,99
+window	97	0	1	:*	abdf,80x23,0,0,100
+window	98	0	1	:*	b510,205x59,0,0,101
+window	99	0	1	:*	b511,205x59,0,0,102
+state	105	

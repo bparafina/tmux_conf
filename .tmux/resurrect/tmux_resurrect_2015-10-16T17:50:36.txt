@@ -1,0 +1,4 @@
+pane	0	0	:~	1	:*	0	:/home/benp	1	ssh	:ssh salt
+pane	0	0	:~	1	:*	1	:/home/benp	0	zsh	:
+window	0	0	1	:*	d694,104x59,0,0[104x29,0,0,0,104x29,0,30,1]
+state	0	

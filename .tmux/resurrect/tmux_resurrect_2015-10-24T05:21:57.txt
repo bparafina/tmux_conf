@@ -1,0 +1,4 @@
+pane	0	0	:sudo	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	1	sudo	:sudo apt-get install python3.5-dev python3.5
+pane	0	0	:sudo	1	:*	1	:/home/ben	0	bash	:
+window	0	0	1	:*	1412,184x46,0,0[184x23,0,0,0,184x22,0,24,1]
+state	0	

@@ -1,0 +1,5 @@
+pane	0	0	:vim	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/winetricks	1	ssh	:ssh salt
+pane	0	0	:vim	1	:*	1	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv	0	ssh	:ssh salt
+pane	0	0	:vim	1	:*	2	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	0	vim	:vim nginx-dev.sls
+window	0	0	1	:*	cd54,211x61,0,0{105x61,0,0,2,105x61,106,0[105x40,106,0,3,105x20,106,41,4]}
+state	0	0

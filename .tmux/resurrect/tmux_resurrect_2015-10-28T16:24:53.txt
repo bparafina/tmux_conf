@@ -1,0 +1,4 @@
+pane	1	0	:..er/srv/pillar	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops	0	ssh	:ssh optimus
+pane	1	0	:..er/srv/pillar	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/srv/pillar	1	zsh	:
+window	1	0	1	:*	9344,190x45,0,0[190x2,0,0,9,190x42,0,3,13]
+state	1	

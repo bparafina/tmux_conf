@@ -1,0 +1,5 @@
+pane	0	0	:vim	1	:*	0	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/Projects/devops/salt_master/srv/pillar	1	vim	:vim -p dev-nginx-base.sls dev-nginx-boost.sls dev-nginx-cerebros.sls dev-nginx-fastr.sls dev-nginx-profiler.sls dev-nginx.sls
+pane	0	0	:vim	1	:*	1	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/media	0	irssi	:irssi
+pane	0	0	:vim	1	:*	2	:/media/benp/0298eb34-8e76-4f56-b6af-51c93a4040b41/media	0	ssh	:ssh salt
+window	0	0	1	:*	1ee6,211x61,0,0[211x30,0,0{140x30,0,0,0,70x30,141,0,2},211x30,0,31,1]
+state	0	

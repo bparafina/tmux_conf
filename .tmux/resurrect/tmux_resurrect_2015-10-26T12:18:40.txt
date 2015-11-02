@@ -1,0 +1,5 @@
+pane	0	0	:..devops/docker	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	0	zsh	:
+pane	0	0	:..devops/docker	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/srv/salt	1	vim	:vim -p dev_bf_docker.sls iptables.rules
+pane	0	0	:..devops/docker	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	0	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+window	0	0	1	:*	123e,190x46,0,0[190x10,0,0,0,190x30,0,11,1,190x4,0,42,2]
+state	0	

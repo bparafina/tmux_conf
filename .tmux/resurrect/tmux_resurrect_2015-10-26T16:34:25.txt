@@ -1,0 +1,5 @@
+pane	0	0	:vim	1	:*	0	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	1	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+pane	0	0	:vim	1	:*	1	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/docker	0	ssh	:ssh -i /media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/salt_master/etc/salt/salt_master.pem salt-west
+pane	0	0	:vim	1	:*	2	:/media/ben/0298eb34-8e76-4f56-b6af-51c93a4040b4/Projects/devops/packer/salt-minion	0	vim	:vim salt-minion.json
+window	0	0	1	:*	571b,190x46,0,0[190x24,0,0{95x24,0,0,0,94x24,96,0,5},190x21,0,25,2]
+state	0	
